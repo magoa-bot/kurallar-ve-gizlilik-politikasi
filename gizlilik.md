@@ -22,6 +22,7 @@ Son Güncelleme: **26/03/2023**
   - Kullanıcı ismi/ID'si
   - Sunucu ismi/ID'si
   - Komut adı/kategorisi
+  
 - Bot Sunucuya Alındığında
   - Sunucudaki tüm “Yönetici” yetkisine sahip olan   - kullanıcıların ID’si (Sadece Bot’un teşekkür mesajı gönderebilmesi için alınır ve hiçbir yerde kayıt altında tutulmaz.)
 
