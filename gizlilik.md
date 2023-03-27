@@ -6,11 +6,11 @@ Son Güncelleme: **26/03/2023**
 
 **1- Tanımlama**
 
-- **Sunucu**: Mágoa Arius botunu kullanan sunucular\
-- **Kullanıcı**: Mágoa botunu kullanan kullanıcılar\
-- **Kanal**: Mágoa botunun üzerinde bulunan herhangi bir komutun kullanıldığı kanal\
-- **Üye Verileri**: Mágoa botunu kullanan kullanıcıların sunucuya özel verileri\
-- **Panel**: magoa.com.tr\
+- **Sunucu**: Mágoa Arius botunu kullanan sunucular
+- **Kullanıcı**: Mágoa botunu kullanan kullanıcılar
+- **Kanal**: Mágoa botunun üzerinde bulunan herhangi bir komutun kullanıldığı kanal
+- **Üye Verileri**: Mágoa botunu kullanan kullanıcıların sunucuya özel verileri
+- **Panel**: magoa.com.tr
 - **Bot**: Mágoa adlı Discord botu
 
 **2- Saklanan Verileriniz**
