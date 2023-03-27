@@ -6,12 +6,12 @@ Son Güncelleme: **26/03/2023**
 
 **1- Tanımlama**
 
-**Sunucu**: Mágoa Arius botunu kullanan sunucular\
-**Kullanıcı**: Mágoa botunu kullanan kullanıcılar\
-**Kanal**: Mágoa botunun üzerinde bulunan herhangi bir komutun kullanıldığı kanal\
-**Üye Verileri**: Mágoa botunu kullanan kullanıcıların sunucuya özel verileri\
-**Panel**: magoa.com.tr\
-**Bot**: Mágoa adlı Discord botu
+- **Sunucu**: Mágoa Arius botunu kullanan sunucular\
+- **Kullanıcı**: Mágoa botunu kullanan kullanıcılar\
+- **Kanal**: Mágoa botunun üzerinde bulunan herhangi bir komutun kullanıldığı kanal\
+- **Üye Verileri**: Mágoa botunu kullanan kullanıcıların sunucuya özel verileri\
+- **Panel**: magoa.com.tr\
+- **Bot**: Mágoa adlı Discord botu
 
 **2- Saklanan Verileriniz**
 - Kuralları Kabul Ettiğiniz Anda
@@ -23,15 +23,15 @@ Son Güncelleme: **26/03/2023**
   - Sunucu ismi/ID'si
   - Komut adı/kategorisi
   - Bot Sunucuya Alındığında
-  - Sunucudaki tüm “Yönetici” yetkisine sahip olan   - kullanıcıların ID’si (Sadece Bot’un teşekkür   - mesajı gönderebilmesi için alınır ve hiçbir yerde   - kayıt altında tutulmaz.)
+  - Sunucudaki tüm “Yönetici” yetkisine sahip olan   - kullanıcıların ID’si (Sadece Bot’un teşekkür mesajı gönderebilmesi için alınır ve hiçbir yerde kayıt altında tutulmaz.)
 
 **3- Verilerin Silinmesi**\
 Kişisel verilerinizin silinmesini talep etmek için iletişim adreslerimizden bize sadece discord üzerinden ulaşmalı ve aşağıdaki formu doldurup göndermeniz gerekmektedir.
 
-**Form**\
-`Verilerin silinmesini isteme nedeniniz?:
-Discord Kullanıcı ID:
-Kişisel verilerinizin silinmesini onaylıyor musunuz?: (Sadece evet/hayır olarak cevap verin.)`
+ - **Form**
+   - Verilerin silinmesini isteme nedeniniz?:
+   - Discord Kullanıcı ID:
+   - Kişisel verilerinizin silinmesini onaylıyor musunuz?: (Sadece evet/hayır olarak cevap verin.)
 
 **İletişim**\
 E-posta: magoa@suleymanbal.com.tr\
